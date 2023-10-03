@@ -3,3 +3,22 @@ Loans are the core business of banks. The main profit comes directly from the lo
 
 To address this challenge, I introduce a machine-learning model predicting the loan eligibility of applicants based on the information provided during the loan application process.
  
+# Dataset Features
+
+Dataset Link : https://www.kaggle.com/code/rupamshil/loan-prediction-using-machine-learning/input
+
+**The following are dataset feature :**
+
+Loan_ID : Unique Loan ID
+Gender : Male/ Female
+Married Applicant : married (Y/N)
+Dependents : Number of dependents
+Education Applicant Education : (Graduate/Under Graduate)
+Self_Employed : Self employed (Y/N)
+ApplicantIncome : Applicant income
+CoapplicantIncome : Coapplicant income
+LoanAmount : Loan amount in thousands
+Loan_Amount_Term : Term of loan in months
+Credit_History : Credit history meets guidelines
+Property_Area : Urban/ Semi Urban/ Rural
+Loan_Status : Loan approved (Y/N)
