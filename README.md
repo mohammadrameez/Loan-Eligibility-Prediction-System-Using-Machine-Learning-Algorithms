@@ -25,5 +25,6 @@ Dataset Link : https://www.kaggle.com/code/rupamshil/loan-prediction-using-machi
 
 
 # Implemented Machine Learning Algorithm:
-Logistic Regression
-DecisionTree Classifier
+  + Logistic Regression
+  + Decision Tree Classifier
+  + 
