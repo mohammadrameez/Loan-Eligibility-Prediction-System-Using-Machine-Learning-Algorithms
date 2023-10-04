@@ -22,3 +22,9 @@ Dataset Link : https://www.kaggle.com/code/rupamshil/loan-prediction-using-machi
   + Credit_History : Credit history meets guidelines
   + Property_Area : Urban/ Semi Urban/ Rural
   + Loan_Status : Loan approved (Y/N)
+
+
+# Implemented Machine Learning Algorithm:
+   DecisionTree Classifier
+   RandomForest Classifier
+   Logistic Regression
