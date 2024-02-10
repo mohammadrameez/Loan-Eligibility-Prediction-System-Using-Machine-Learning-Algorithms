@@ -30,5 +30,3 @@ Dataset Link : https://www.kaggle.com/code/rupamshil/loan-prediction-using-machi
   + Support Vector Machine (SVM) Classifier
 
         
-            
- 
