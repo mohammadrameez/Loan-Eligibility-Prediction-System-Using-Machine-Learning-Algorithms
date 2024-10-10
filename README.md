@@ -5,31 +5,29 @@ To address this challenge, I introduce a machine-learning model predicting the l
  
 # Dataset Features
 
-Dataset Link : https://www.kaggle.com/datasets/saadharoon27/hotel-booking-dataset
+Dataset Link : https://www.kaggle.com/code/rupamshil/loan-prediction-using-machine-learning/input
 
-** The dataset contains several features, such as: **
+**The following are dataset feature :**
 
-  + Hotel: Type of hotel (Resort Hotel or City Hotel)
-  + Is_canceled: Whether the booking was canceled (Yes/No)
-  + Lead_time: Number of days between booking and arrival
-  + Arrival_date_month: Month of arrival
-  + Stays_in_weekend_nights: Number of weekend nights in the stay
-  + Stays_in_week_nights: Number of weeknights in the stay
-  + Adults, Children, Babies: Number of adults, children, and babies
-  + Meal: Type of meal booked
-  + Country: Country of origin of the guest
-  + Deposit_type: Whether a deposit was made (No Deposit, Refundable, Non Refund)
-  + Customer_type: Type of customer (Contract, Group, Transient, Transient-Party)
-  + Total_of_special_requests: Number of special requests made by the customer
-  + Is_family: If the booking was for a family or not
+  + Loan_ID : Unique Loan ID
+  + Gender : Male/ Female
+  + Married Applicant : married (Y/N)
+  + Dependents : Number of dependents
+  + Education Applicant Education : (Graduate/Under Graduate)
+  + Self_Employed : Self employed (Y/N)
+  + ApplicantIncome : Applicant income
+  + CoapplicantIncome : Coapplicant income
+  + LoanAmount : Loan amount in thousands
+  + Loan_Amount_Term : Term of loan in months
+  + Credit_History : Credit history meets guidelines
+  + Property_Area : Urban/ Semi Urban/ Rural
+  + Loan_Status : Loan approved (Y/N)
  
 
 # Implemented Machine Learning Algorithm:
   + Logistic Regression
   + Decision Tree Classifier
-  + Random Forest Classifier
-  + K-Nearest Neighbors (KNN)
-  + Naive Bayes
+  + Support Vector Machine (SVM) Classifier
      
      
  
